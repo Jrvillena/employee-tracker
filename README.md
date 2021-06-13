@@ -4,8 +4,7 @@ title: mysql employee tracker<br>
 student: Justin Villena<br>
 description: <br>
 git hub repo - https://github.com/Jrvillena/mysql-employee-tracker<br>
-video link - <br>
-generated sample html - <br>
+video link - <br>https://youtu.be/RW6xRbZ6SeM
 <br>
 <br>
 GIVEN a command-line application that accepts user input<br>
